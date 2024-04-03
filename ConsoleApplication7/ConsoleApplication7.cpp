@@ -208,7 +208,7 @@ public:
 		vidoCard.DisplayFarewellMessageOnTheMonitor();	
 		opticalDiscReader.ReturnToOriginalPosition();	
 		powerUnit.StopPoweringTheVideoCard();
-		powerUnit.StopPoweringTheRAM();
+		powerUnit.StopPoweringTheRAM();	
 		powerUnit.StopPoweringTheDiskReader();
 		powerUnit.StopPoweringTheHardDrive();	
 		sensors.ÑheckÌoltage();	
